@@ -22,7 +22,7 @@ return new class extends Migration
             $table->timestamp('phone_number_verified_at')->nullable();
             $table->json('verification_documents')->nullable();
             $table->timestamp('verified_at')->nullable();
-            $table->foreignId('country_id')->constrained('countries');
+            $table->foreignId('city_id')->constrained('cities');
             $table->string('dp')->nullable();
             $table->enum('gender', ['male', 'female','other'])->nullable();
             $table->date('date_of_birth')->nullable();
