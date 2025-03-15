@@ -32,11 +32,11 @@ import dunu from "@/assets/img/dunu.jpg";
                                             />
                         </div>
                         <div class="flex flex-col items-start justify-center">
-                            <h4 class="font-bold text-gray-800">Hiroshan Jayaranga</h4>
-                            <p class="text-gray-600">Client</p>
+                            <h4 class="font-bold text-gray-950">Hiroshan Jayaranga</h4>
+                            <p class="text-gray-950">Client</p>
                         </div>
                     </div>
-                    <blockquote class="mt-8 text-lg text-gray-500">"I couldn’t have asked for better care for my son after his surgery. The caregiver was attentive, compassionate, and always there when we needed her. Highly recommend CareConnect."
+                    <blockquote class="mt-8 text-lg text-gray-950">"I couldn’t have asked for better care for my son after his surgery. The caregiver was attentive, compassionate, and always there when we needed her. Highly recommend CareConnect."
 
                     </blockquote>
                 </div>
@@ -51,11 +51,11 @@ import dunu from "@/assets/img/dunu.jpg";
                                             />
                         </div>
                         <div class="flex flex-col items-start justify-center">
-                            <h4 class="font-bold text-gray-800">Samith Perera</h4>
-                            <p class="text-gray-600">Client</p>
+                            <h4 class="font-bold text-gray-950">Samith Perera</h4>
+                            <p class="text-gray-950">Client</p>
                         </div>
                     </div>
-                    <blockquote class="mt-8 text-lg text-gray-500">"The team at CareConnect has been wonderful. They matched us with the perfect caregiver who made a real difference in my father’s recovery. Their attention to detail and kindness were beyond our expectations."
+                    <blockquote class="mt-8 text-lg text-gray-950">"The team at CareConnect has been wonderful. They matched us with the perfect caregiver who made a real difference in my father’s recovery. Their attention to detail and kindness were beyond our expectations."
                     </blockquote>
                 </div>
                 <div class="flex flex-col items-start justify-start w-full h-auto lg:w-1/3">
@@ -69,11 +69,11 @@ import dunu from "@/assets/img/dunu.jpg";
                                             />
                         </div>
                         <div class="flex flex-col items-start justify-center">
-                            <h4 class="font-bold text-gray-800">N.K.Dunuwila</h4>
-                            <p class="text-gray-600">Client</p>
+                            <h4 class="font-bold text-gray-950">N.K.Dunuwila</h4>
+                            <p class="text-gray-950">Client</p>
                         </div>
                     </div>"I’ve been using CareConnect's services for months now, and they’ve consistently provided excellent caregivers. I can trust them to look after my loved ones with great care and professionalism."
-                    <blockquote class="mt-8 text-lg text-gray-500"></blockquote>
+                    <blockquote class="mt-8 text-lg text-gray-950"></blockquote>
                 </div>
             </div>
             <a

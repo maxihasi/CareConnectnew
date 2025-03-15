@@ -2,13 +2,13 @@
 import aboutus from "@/assets/img/c7.jpg";
 </script>
 <template>
-    <div class="container mx-auto bg-green-200" >
+    <div class="container mx-auto bg-green-300" >
         <div class="flex flex-wrap items-center">
             <div
                 class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-32"
             >
                 <div
-                    class="relative flex flex-col min-w-0 break-words bg-lime-200 w-full mb-6 shadow-lg rounded-lg bg-emerald-500"
+                    class="relative flex flex-col min-w-0 break-words bg-emerald-400 w-full mb-6 shadow-lg rounded-lg bg-emerald-500"
                 >
                     <img
                         alt="..."
@@ -51,7 +51,7 @@ import aboutus from "@/assets/img/c7.jpg";
                                 <h6 class="text-xl mb-1 font-semibold">
                                     PatientCare
                                 </h6>
-                                <p class="mb-4 text-slate-500">
+                                <p class="mb-4 text-slate-950">
                                     We offer caring support for patients in the hospital, helping them recover with comfort and personal attention.
                                 </p>
                             </div>
@@ -66,7 +66,7 @@ import aboutus from "@/assets/img/c7.jpg";
                                 <h6 class="text-xl mb-1 font-semibold">
                                     ElderCare
                                 </h6>
-                                <p class="mb-4 text-slate-500">
+                                <p class="mb-4 text-slate-950">
                                     We offer caring support for the elderly, ensuring comfort and personal attention at home or in the hospital.
                                 </p>
                             </div>
@@ -83,7 +83,7 @@ import aboutus from "@/assets/img/c7.jpg";
                                 <h6 class="text-xl mb-1 font-semibold">
                                     ChildCare
                                 </h6>
-                                <p class="mb-4 text-slate-500">
+                                <p class="mb-4 text-slate-950">
                                     We provide caring support for children, ensuring they receive the attention and comfort they need, whether at home or in the hospital.
                                 </p>
                             </div>
@@ -98,7 +98,7 @@ import aboutus from "@/assets/img/c7.jpg";
                                 <h6 class="text-xl mb-1 font-semibold">
                                     PregnantWomenCare
                                 </h6>
-                                <p class="mb-4 text-slate-500">
+                                <p class="mb-4 text-slate-950">
                                     We offer caring support for pregnant women, ensuring comfort, safety, and personal attention at  hospital.
                                 </p>
                             </div>
@@ -110,7 +110,7 @@ import aboutus from "@/assets/img/c7.jpg";
         </div>
         <a
                 :href="route('portfolio')"
-                class="font-bold text-blueGray-900 hover:text-red-500 text-xl ease-linear transition-all duration-150"
+                class="font-bold text-blueGray-900 hover:text-teal-600 text-xl ease-linear transition-all duration-150"
             >
                 See more
                 <i class="fa fa-angle-double-right ml-1 leading-relaxed"></i>

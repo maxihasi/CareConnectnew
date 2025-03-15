@@ -57,7 +57,7 @@
           <div class="flex flex-wrap items-top mb-6">
             <div class="w-full lg:w-4/12 px-4 ml-auto">
               <span
-                class="block uppercase text-blueGray-500 text-sm font-semibold mb-2"
+                class="block uppercase text-blueGray-950 text-sm font-semibold mb-2"
               >
                 Useful Links
               </span>
@@ -84,7 +84,7 @@
             </div>
             <div class="w-full lg:w-4/12 px-4">
               <span
-                class="block uppercase text-blueGray-500 text-sm font-semibold mb-2"
+                class="block uppercase text-blueGray-950 text-sm font-semibold mb-2"
               >
                 Other Resources
               </span>
@@ -117,11 +117,11 @@
         class="flex flex-wrap items-center md:justify-between justify-center"
       >
         <div class="w-full md:w-4/12 px-4 mx-auto text-center">
-          <div class="text-sm text-blueGray-500 font-semibold py-1">
+          <div class="text-sm text-emerald-600 font-semibold py-1">
            Care
             <a
               href="#"
-              class="text-blueGray-500 hover:text-blueGray-800"
+              class="text-emerald-600 hover:text-blueGray-800"
             >
               Connect
             </a>

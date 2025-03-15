@@ -3,7 +3,7 @@ import patternVue from "@/assets/img/c5.png";
 </script>
 <template>
     <section
-        class="header relative pt-16 items-center flex h-screen max-h-860-px bg-green-200"
+        class="header relative pt-16 items-center flex h-screen max-h-860-px bg-green-300"
     >
         <div class="container mx-auto items-center flex flex-wrap">
             <div class="w-full md:w-8/12 lg:w-6/12 xl:w-6/12 px-4">

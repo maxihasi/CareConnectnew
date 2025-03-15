@@ -36,7 +36,7 @@
               href="/"
             >
               <i
-                class="text-blueGray-400 fa fa-home-alt text-lg leading-lg mr-2"
+                class="text-green-300 fa fa-home-alt text-lg leading-lg mr-2"
               />
               Home
             </a>
@@ -46,7 +46,7 @@
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               :href="route('about-us')"
             >
-              <i class="text-blueGray-400 fa fa-address-card text-lg leading-lg" />
+              <i class="text-green-300 fa fa-address-card text-lg leading-lg" />
               <span class=" inline-block ml-2">About us</span>
             </a>
           </li>
@@ -56,7 +56,7 @@
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               :href="route('portfolio')"
             >
-              <i class="text-blueGray-400 fas fa-user-friends text-lg leading-lg" />
+              <i class="text-green-300 fas fa-user-friends text-lg leading-lg" />
               <span class=" inline-block ml-2">Caregivers</span>
             </a>
           </li>
@@ -66,7 +66,7 @@
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               :href="route('contact')"
             >
-              <i class="text-blueGray-400 fas fa-phone  fa-phone text-lg leading-lg" />
+              <i class="text-green-300 fas fa-phone  fa-phone text-lg leading-lg" />
               <span class=" inline-block ml-2">Contacts</span>
             </a>
           </li>
@@ -75,7 +75,7 @@
               class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold"
               :href="route('feedback')"
             >
-              <i class="text-blueGray-400 fas fa-comments   text-lg leading-lg" />
+              <i class="text-green-300 fas fa-comments   text-lg leading-lg" />
               <span class=" inline-block ml-2">Feedbacks</span>
             </a>
           </li>
